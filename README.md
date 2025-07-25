@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ## Downloading Original Dataset
 Do not need to change following scripts.
 ```bash
+# The size of each file ≈ 450M
 wget -P ./dataset "https://gla-my.sharepoint.com/personal/2840046d_student_gla_ac_uk/_layouts/52/download.aspx?share=EflfoQ9-WUVCr3lmUzR2BEEBMh3Kn6xAThtX5sJ5EFudhw"
 wget -P ./dataset "https://gla-my.sharepoint.com/personal/2840046d_student_gla_ac_uk/_layouts/52/download.aspx?share=ESOHtTTpUvZGn9m6Tt_BII4BzvRuIYH1haIeBWNMuc_90Q"
 ```
