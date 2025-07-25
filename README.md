@@ -1,4 +1,4 @@
-# Generated_Dataset
+# Dataset_YX
 
 This repository provides a small pipeline for generating training data that
 describes the differences between pairs of images using the OpenAI API.
