@@ -8,7 +8,7 @@ describes the differences between pairs of images using the OpenAI API.
 ## Installation
 
 ```bash
-git clone https://github.com/Thomas-uestc/Generated_Dataset.git
+git clone https://github.com/Thomas-uestc/Dataset_YX.git
 cd Generated_Dataset
 conda create -n GD python
 conda activate GD
