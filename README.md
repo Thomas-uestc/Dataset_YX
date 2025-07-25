@@ -8,7 +8,7 @@ This repository provides a small pipeline for generating training data using the
 
 ```bash
 git clone https://github.com/Thomas-uestc/Dataset_YX.git
-cd Generated_Dataset
+cd Dataset_YX
 conda create -n GD python
 conda activate GD
 pip install -r requirements.txt
