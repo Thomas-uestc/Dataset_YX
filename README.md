@@ -1,7 +1,6 @@
 # Dataset_YX
 
-This repository provides a small pipeline for generating training data that
-describes the differences between pairs of images using the OpenAI API.
+This repository provides a small pipeline for generating training data using the OpenAI API.
 
 
 
