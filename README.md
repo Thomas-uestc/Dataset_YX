@@ -136,8 +136,8 @@ The output saved in `./output/_4_cot_reinstruction/xxxxx.jsonl` will be:
                   "CoT_1": "Chain of Thought",
                   "CoT_2": "Chain of Thought",
                   ...
-                  "Re_Edit_1: "editing instuction",
-                  "Re_Edit_2: "editing instuction",
+                  "Re_Edit_1": "editing instuction",
+                  "Re_Edit_2": "editing instuction",
                   ...
                 },
 }
