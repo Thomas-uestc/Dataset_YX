@@ -44,7 +44,7 @@ class StepImageEditor:
 
     def apply_step(self, source_image: Any, edit_text: Any, width: int, height: int, img_format: Any) -> str:
         
-        image_file = self.ensure_editable_format_dall_e(source_image, img_format)
+        image_file = self.ensure_editable_format(source_image, img_format)
 
         resp = openai.images.edit(
             model = "gpt-image-1",
