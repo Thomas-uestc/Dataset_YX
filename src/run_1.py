@@ -57,7 +57,7 @@ def main() -> None:
     # Sequence the path list with order of number: train-00000-xxx, train-00001-xxx, ...
     valid_paths.sort(key=extract_index_number_int)
     length = len(valid_paths)
-    print(f"The number of parquet is {length} ")
+    print(f"The number of parquet is {length} \n")
 
     for parquet_path in valid_paths:
         
