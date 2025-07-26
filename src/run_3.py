@@ -87,6 +87,7 @@ def main():
                     if isinstance(rec["edit"], str)
                     else rec["edit"].get("1", "")  # Only take action 1 to execute
                 )
+                print("The specific action of this step edited image is: \n")
                 print(edit_text)
                 # Get the width and height of the source image
                 img = Image.open(io.BytesIO(source_image))
